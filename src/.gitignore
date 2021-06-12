@@ -1,0 +1,3 @@
+# Ignore everything that is a pyc
+
+*.pyc
